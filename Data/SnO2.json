@@ -1,0 +1,12 @@
+{
+  "settings": {
+    "minTHz": 0.3,
+    "maxTHz": 2.7,
+    "calibration_index": 2.2},
+  "Sample": [
+    { "name": "air",            "d_nm": 0,       "n": 1 },
+    { "name": "SnO2*",          "d_nm": 1000,    "n": NaN },
+    { "name": "SnO2",           "d_nm": 7220,    "n": 2.2 },
+    { "name": "substrate",      "d_nm": 1000000, "n": 1.95 },
+    { "name": "air",            "d_nm": 0,       "n": 1 }]
+}

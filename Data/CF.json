@@ -1,0 +1,11 @@
+{
+  "settings": {
+    "minTHz": 0.7,
+    "maxTHz": 2.7,
+    "calibration_index": 1},
+  "Sample": [
+    { "name": "air",            "d_nm": 0,          "n": 1 },
+    { "name": "CF",            "d_nm": 7000,       "n": NaN },
+    { "name": "Substrate",      "d_nm": 500000,     "n": 2.1 },
+    { "name": "air",            "d_nm": 0,          "n": 1 }]
+}

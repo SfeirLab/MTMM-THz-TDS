@@ -1,0 +1,10 @@
+{
+  "settings": {
+    "minTHz": 1,
+    "maxTHz": 15,
+    "calibration_index": 1},
+  "Sample": [
+    { "name": "air",            "d_nm": 0,       "n": 1 },
+    { "name": "SiO2",          "d_nm": 225000,    "n": NaN },
+    { "name": "air",            "d_nm": 0,       "n": 1 }]
+}

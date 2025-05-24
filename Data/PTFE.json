@@ -1,0 +1,12 @@
+{
+  "settings": {
+    "minTHz": 0.2,
+    "maxTHz": 2.2,
+    "calibration_index": 1},
+  "Sample": [
+    { "name": "air",            "d_nm": 0,          "n": 1 },
+    { "name": "Glass",          "d_nm": 1250000,    "n": 2 },
+    { "name": "H2O",            "d_nm": 100000,     "n": NaN },
+    { "name": "Glass",          "d_nm": 1250000,    "n": 2 },
+    { "name": "air",            "d_nm": 0,          "n": 1 }]
+}
