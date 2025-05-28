@@ -14,8 +14,7 @@ Maxit – Maximum number of generations. More iterations yield better results bu
 You can also add your own data to the Data folder if needed. To do this:
 1. Create a JSON file similar to the existing ones. You can add or remove layers by editing the thickness and refractive index values as needed.
 2. Include two time-domain data files (as .txt files):
-One for the reference measurement
-One for the sample measurement
-
+   - One for the reference measurement
+   - One for the sample measurement
 These files should contain the time-dependent experimental data and must also be placed in the Data folder.
 
