@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Radhidi"
+  given-names: "Kamyar"
+  orcid: "https://orcid.org/0009-0002-8609-4732"
+- family-names: "Sfeir"
+  given-names: "Matthew Y."
+  orcid: "https://orcid.org/0000-0001-5619-5722"
+title: "MTMM: Modified Transfer Matrix Method for the Extraction of Material Properties via Terahertz Time-Domain Spectroscopy"
+version: 1.0.0
+doi: 10.48550/arXiv.2505.21924
+date-released: 2025-05-29
+url: "https://github.com/SfeirLab/MTMM-THz-TDS"
