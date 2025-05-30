@@ -18,3 +18,5 @@ You can also add your own data to the Data folder if needed. To do this:
    - One for the sample measurement
 These files should contain the time-dependent experimental data and must also be placed in the Data folder.
 
+This work was supported by the Gordon and Betty Moore Foundation, grant 10.37807/gbmf12235.
+
