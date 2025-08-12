@@ -1,4 +1,4 @@
-**Modified Transfer Matrix Method for the Extraction of Material Properties via Terahertz Time-Domain Spectroscopy (code)**
+# **Modified Transfer Matrix Method for the Extraction of Material Properties via Terahertz Time-Domain Spectroscopy (code)**
 
 To run the code, simply open and run the main.m file.
 
@@ -21,6 +21,7 @@ You can also add your own data to the Data folder if needed. To do this:
 These files should contain the time-dependent experimental data and must also be placed in the Data folder.
 
 This work was supported by the Gordon and Betty Moore Foundation, grant 10.37807/gbmf12235.
+
 
 
 
