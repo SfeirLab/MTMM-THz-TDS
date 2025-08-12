@@ -1,3 +1,5 @@
+# MTMM Method for THz Time-Domain Spectroscopy
+
 To run the code, simply open and run the main.m file.
 
 Trying Different Structures:
@@ -19,4 +21,5 @@ You can also add your own data to the Data folder if needed. To do this:
 These files should contain the time-dependent experimental data and must also be placed in the Data folder.
 
 This work was supported by the Gordon and Betty Moore Foundation, grant 10.37807/gbmf12235.
+
 
